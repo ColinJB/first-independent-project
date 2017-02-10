@@ -5,7 +5,22 @@ li > a {
 }
 
 h2 {
+  font-weight: bold;
   color: #008000;
+}
+
+.personal {
+  font-weight: bolder;
+  color: #008000;
+}
+
+.not {
+  font-weight: bold;
+  color: red;
+}
+
+.positive {
+  font-weight: bolder;
 }
 
 .portfolio {
@@ -18,26 +33,65 @@ h2 {
   width: 30%;
 }
 
-.background {
-
-}
-
 .ami {
   font-size: 16px;
 }
 
-#who {
-  font-weight: bold;
-  font-size: 25px;
+.NBA {
+  color: #e68a00;
+}
+
+.col-md-3 {
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.mom {
   color: #008000;
+  font-weight: bolder;
+}
+
+.phil {
+  color: #8600b3;
+  font-weight: bolder;
+}
+
+.poli {
+  color: #ff1a1a;
+  font-weight: bolder;
+}
+
+.cook {
+  color: #ff9900;
+  font-weight: bolder;
+}
+
+.well {
+  background-color: rgba(0, 128, 0, .3);
 }
 
 #pic {
   border-radius: 10%;
+  border: 10px solid rgba(0, 128, 0, .3);
+  padding: 2px;
 }
 
 #Colin {
-  font-weight: bold;
-  font-size: 40px;
+  font-weight: bolder;
+  font-size: 45px;
   font-family:fantasy;
+}
+
+#fam {
+  display: block;
+  margin: auto;
+  border-radius: 10%;
+  height: 766px;
+  width: 805px;
+  border: 10px solid rgba(128, 0, 128, .4);
+  padding: 2px;
+}
+
+#such {
+  margin: 30px;
 }

@@ -1,0 +1,10 @@
+li > a {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.part1 {
+  float: right;
+  width: 70%;
+}

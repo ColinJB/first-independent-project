@@ -4,7 +4,35 @@ li > a {
   font-size: 16px;
 }
 
-.part1 {
+.portfolio {
   float: right;
   width: 70%;
+}
+
+.who {
+  float: left;
+  width: 30%;
+}
+
+.background {
+
+}
+
+.ami {
+  font-size: 16px;
+}
+
+#who {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+#pic {
+  border-radius: 10%;
+}
+
+#Colin {
+  font-weight: bold;
+  font-size: 40px;
+  font-family:fantasy;
 }

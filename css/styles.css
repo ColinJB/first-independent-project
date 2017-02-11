@@ -1,3 +1,9 @@
+body {
+  border-left: 40px solid rgba(0, 128, 0, .3);
+  border-right: 40px solid rgba(0, 128, 0, .3);
+}
+
+
 li > a {
   font-weight: bold;
   font-style: italic;
@@ -67,7 +73,7 @@ h2 {
 }
 
 .well {
-  background-color: rgba(0, 128, 0, .3);
+  background-color: rgba(0, 128, 0, .1);
 }
 
 #pic {
